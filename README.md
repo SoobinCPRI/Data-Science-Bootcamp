@@ -9,6 +9,8 @@ Repositório referente ao bootcamp Geração Tech Unimed-BH - Ciência de Dados 
   <img align="center" alt="Mysql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
 </div>
 
+## Responsável:
+
 > <table>
   <tbody>
 <tr>
