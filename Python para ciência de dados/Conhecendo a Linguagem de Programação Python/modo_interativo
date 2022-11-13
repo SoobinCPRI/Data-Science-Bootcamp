@@ -1,0 +1,9 @@
+Comandos para o terminal:
+- python -> saída = exit() -> é o modo interativo
+- python -i nome_do_programa -> executa diretamente determinado argumento
+- dir() -> trás todo o escopo local
+- dir(argumento) -> trás todos os métodos para o argumento
+- help() -> sistema de ajuda integrado -> sai com Q
+-help (argumento) -> trás parâmetros e diversas informações sobre o argumento
+- ctrl + L -> limpa o terminal
+
